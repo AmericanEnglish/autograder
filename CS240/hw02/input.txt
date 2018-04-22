@@ -1,0 +1,18 @@
+/home/ag/autograder/CS240/hw02/input.txt
+/home/ag/autograder/CS240/hw02/student_summary.txt
+
+# example grade file
+DAYS 90
+
+# the first student
+STUDENT jkruth
+GRADE HW01 10 10 8
+GRADE EXAM 45 100 90
+GRADE FINAL 90 200 150
+
+# the second student
+STUDENT jsmith
+GRADE HW01 10 10 9
+GRADE EXAM 45 100 70
+# didn't do that well...
+GRADE FINAL 90 200 120

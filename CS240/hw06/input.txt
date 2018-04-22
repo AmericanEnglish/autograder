@@ -1,0 +1,17 @@
+7
+a, d
+e, h
+i, l
+m, p
+q, s
+t, v
+w, z
+Babbage, Charles
+Postel, Jon
+Lewis, David
+Petzold, Charles
+Sedgewick, Robert
+Jobs, Steven
+
+
+

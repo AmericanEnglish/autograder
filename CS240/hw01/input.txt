@@ -1,0 +1,2 @@
+/home/ag/autograder/CS240/hw01/input.txt
+/home/ag/autograder/CS240/hw01/student_summary.txt

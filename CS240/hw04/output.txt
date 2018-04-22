@@ -1,0 +1,108 @@
+
+_ _ _ _ _ 
+
+Please enter a letter: 
+C _ _ _ _ 
+
+Please enter a letter: 
+C A _ A _ 
+
+Please enter a letter: 
+C A N A _ 
+
+Please enter a letter: 
+Duplicate guess!
+
+C A N A _ 
+
+Please enter a letter: 
+C A N A L 
+
+Continue playing (Y/N)? 
+_ _ _ _ 
+
+Please enter a letter: 
+F _ _ _ 
+
+Please enter a letter: 
+F I _ _ 
+
+Please enter a letter: 
+F I L _ 
+
+Please enter a letter: 
+F I L M 
+
+Continue playing (Y/N)? 
+_ _ _ _ 
+
+Please enter a letter: 
+F _ _ _ 
+
+Please enter a letter: 
+F I _ _ 
+
+Please enter a letter: 
+F I L _ 
+
+Please enter a letter: 
+F I L M 
+
+Continue playing (Y/N)? 
+_ _ _ _ _ _ _ _ _ _ _ 
+
+Please enter a letter: 
+M _ _ _ _ M _ _ _ _ _ 
+
+Please enter a letter: 
+M A _ _ _ M A _ _ _ _ 
+
+Please enter a letter: 
+M A _ _ _ M A _ _ _ _ 
+
+Please enter a letter: 
+M A _ _ _ M A _ _ _ _ 
+
+Please enter a letter: 
+M A _ _ _ M A _ I _ _ 
+
+Please enter a letter: 
+M A T _ _ M A T I _ _ 
+
+Please enter a letter: 
+M A T H _ M A T I _ _ 
+
+Please enter a letter: 
+Duplicate guess!
+
+M A T H _ M A T I _ _ 
+
+Please enter a letter: 
+Duplicate guess!
+
+M A T H _ M A T I _ _ 
+
+Please enter a letter: 
+Duplicate guess!
+
+M A T H _ M A T I _ _ 
+
+Please enter a letter: 
+Duplicate guess!
+
+M A T H _ M A T I _ _ 
+
+Please enter a letter: 
+M A T H _ M A T I C _ 
+
+Please enter a letter: 
+M A T H _ M A T I C S 
+
+Please enter a letter: 
+M A T H E M A T I C S 
+
+Continue playing (Y/N)? 
+Rounds: 4
+Average Guesses: 6.75
+Average Percent Correct: 94.6%
+Average Word Length: 6.00

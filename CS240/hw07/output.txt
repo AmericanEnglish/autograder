@@ -1,0 +1,33 @@
+Number of shelves? 
+Range for shelf #1: Range for shelf #2: Range for shelf #3: Range for shelf #4: Range for shelf #5: Range for shelf #6: Range for shelf #7: 
+Find author (enter nothing to quit): 
+Author: Babbage, Charles
+Shelf #: 1
+Shelves checked: 3
+
+Find author (enter nothing to quit): 
+Author: Postel, Jon
+Shelf #: 4
+Shelves checked: 1
+
+Find author (enter nothing to quit): 
+Author: Lewis, David
+Shelf #: 3
+Shelves checked: 3
+
+Find author (enter nothing to quit): 
+Author: Petzold, Charles
+Shelf #: 4
+Shelves checked: 1
+
+Find author (enter nothing to quit): 
+Author: Sedgewick, Robert
+Shelf #: 5
+Shelves checked: 2
+
+Find author (enter nothing to quit): 
+Author: Jobs, Steven
+Shelf #: 3
+Shelves checked: 3
+
+Find author (enter nothing to quit): 
